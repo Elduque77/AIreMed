@@ -1,6 +1,6 @@
 ﻿# Agente de calidad del aire del Valle de Aburrá
 
-Proyecto final de SI3003 Inteligencia Artificial (EAFIT, 2026-1). Integrantes: [INTEGRANTES].
+Proyecto final de SI3003 Inteligencia Artificial (EAFIT, 2026-1). Elaborado por: --> Juan Fernando Duque Gallego
 
 Dashboard en Streamlit con mapa de estaciones, serie de tiempo de PM2.5, predicción de la categoría del día siguiente y un agente LLM con RAG y 3 herramientas (`get_pm25`, `predict_tomorrow`, `search_docs`).
 
