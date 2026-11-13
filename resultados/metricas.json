@@ -1,0 +1,17 @@
+{
+  "naive_bayes": {
+    "accuracy": 0.7248,
+    "f1_macro": 0.7246,
+    "recall_alta": 0.0
+  },
+  "persistencia": {
+    "accuracy": 0.7525,
+    "f1_macro": 0.7436,
+    "recall_alta": 0.0
+  },
+  "mayoria": {
+    "accuracy": 0.5942,
+    "f1_macro": 0.3727,
+    "recall_alta": 0.0
+  }
+}
