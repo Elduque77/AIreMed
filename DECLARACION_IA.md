@@ -9,14 +9,12 @@ Proyecto final SI3003 Inteligencia Artificial, EAFIT 2026-1.
   - depurar errores de instalación y ejecución (PowerShell, dependencias, Python 3.14);
   - redactar borradores del README y de este documento.
 - **Modelo de lenguaje en tiempo de ejecución:** la app llama a un modelo alojado en Groq (endpoint compatible con OpenAI) como componente del agente. No es una herramienta de desarrollo.
-- [Completar: cualquier otra herramienta que hayan usado los integrantes (Copilot, ChatGPT, etc.) y para qué, o escribir "ninguna otra".]
 
 ## Qué hizo el equipo
 - Eligió la idea del proyecto (agente de calidad del aire del Valle de Aburrá).
 - Ejecutó y probó cada script, descargó los datos y revisó las salidas.
 - Decidió usar solo 2024-2025 tras ver que 2020-2023 tenía escalas inconsistentes.
 - Corrió la evaluación del agente tres veces, revisó las respuestas y ajustó el prompt y el manejo del último paso del agente.
-- [Completar: qué partes revisaron, modificaron o entendieron a fondo cada integrante.]
 
 ## Transparencia sobre la evaluación del agente
 - Se hicieron tres corridas de 12 preguntas (11/12, 9/12 y 12/12 en herramienta correcta). Entre ellas se cambiaron el prompt y el manejo del último paso.
